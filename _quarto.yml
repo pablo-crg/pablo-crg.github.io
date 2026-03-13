@@ -3,7 +3,7 @@ project:
   output-dir: docs   # para que GitHub Pages publique desde /docs
 
 website:
-  title: "Pablo Espinosa"
+  title: "Pablo Espinosa Lara"
   site-url: "https://pablo-crg.github.io"
   navbar:
     left:

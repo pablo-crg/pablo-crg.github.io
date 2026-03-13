@@ -4,35 +4,28 @@
     "href": "index.html",
     "title": "Sobre mí",
     "section": "",
-    "text": "Médico especialista en Oncología Médica y Dermatología, centrado en cáncer cutáneo y melanoma. Combino la práctica clínica con investigación traslacional en genómica, transcriptómica e inmunología tumoral.\n\nOncólogo médico y dermatólogo en Huelva\nInvestigación en melanoma y microambiente inmune\nAnálisis de datos ómicos (RNA-seq, single-cell, firmas inmunes)\nCiencia reproducible con R, Quarto y Git"
+    "text": "Médico especialista en Oncología Médica y Dermatología, centrado en cáncer cutáneo y melanoma. Combino la práctica clínica con investigación traslacional en genómica, transcriptómica e inmunología tumoral.\n\nOncólogo médico y dermatólogo en el Hospital Infanta Elena (Huelva)\nInvestigación en melanoma y microambiente inmune\nAnálisis de datos ómicos (RNA-seq, single-cell, firmas inmunes)\nCiencia reproducible con R, Quarto y Git"
   },
   {
     "objectID": "index.html#pablo-espinosa-lara",
     "href": "index.html#pablo-espinosa-lara",
     "title": "Sobre mí",
     "section": "",
-    "text": "Médico especialista en Oncología Médica y Dermatología, centrado en cáncer cutáneo y melanoma. Combino la práctica clínica con investigación traslacional en genómica, transcriptómica e inmunología tumoral.\n\nOncólogo médico y dermatólogo en Huelva\nInvestigación en melanoma y microambiente inmune\nAnálisis de datos ómicos (RNA-seq, single-cell, firmas inmunes)\nCiencia reproducible con R, Quarto y Git"
+    "text": "Médico especialista en Oncología Médica y Dermatología, centrado en cáncer cutáneo y melanoma. Combino la práctica clínica con investigación traslacional en genómica, transcriptómica e inmunología tumoral.\n\nOncólogo médico y dermatólogo en el Hospital Infanta Elena (Huelva)\nInvestigación en melanoma y microambiente inmune\nAnálisis de datos ómicos (RNA-seq, single-cell, firmas inmunes)\nCiencia reproducible con R, Quarto y Git"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Investigación",
     "section": "",
-    "text": "Biomarcadores en melanoma y cáncer cutáneo\nFirmas inmunes y respuesta a inmunoterapia\nIntegración clínico-patológica-molecular"
+    "text": "Integración clínico-patológica-molecular\nBiomarcadores en melanoma y cáncer cutáneo\nFirmas inmunes y respuesta a inmunoterapia\nEpidemiología del cáncer cutáneo"
   },
   {
     "objectID": "research.html#líneas-de-interés",
     "href": "research.html#líneas-de-interés",
     "title": "Investigación",
     "section": "",
-    "text": "Biomarcadores en melanoma y cáncer cutáneo\nFirmas inmunes y respuesta a inmunoterapia\nIntegración clínico-patológica-molecular"
-  },
-  {
-    "objectID": "research.html#proyectos-seleccionados",
-    "href": "research.html#proyectos-seleccionados",
-    "title": "Investigación",
-    "section": "Proyectos seleccionados",
-    "text": "Proyectos seleccionados\n\nProyecto 1 — Análisis transcriptómico de melanoma (RNA-seq bulk / scRNA-seq).\nProyecto 2 — Desarrollo de firmas inmunes en cáncer cutáneo."
+    "text": "Integración clínico-patológica-molecular\nBiomarcadores en melanoma y cáncer cutáneo\nFirmas inmunes y respuesta a inmunoterapia\nEpidemiología del cáncer cutáneo"
   },
   {
     "objectID": "teaching.html",
@@ -60,6 +53,6 @@
     "href": "contact.html",
     "title": "Contacto",
     "section": "",
-    "text": "Correo: pablo.espinosa.crg@gmail.com\nGitHub: https://github.com/pablo-crg\nCiudad: Sevilla, España"
+    "text": "Correo: pablo.espinosa.sspa@juntadeandalucia.es\nGitHub: https://github.com/pablo-crg\nCiudad: Huelva, España"
   }
 ]

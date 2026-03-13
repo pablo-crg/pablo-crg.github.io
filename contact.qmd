@@ -2,6 +2,7 @@
 title: "Contacto"
 ---
 
-- Correo: pablo.espinosa.crg@gmail.com
+- Correo: pablo.espinosa.sspa@juntadeandalucia.es
 - GitHub: https://github.com/pablo-crg
-- Ciudad: Sevilla, España
+- Ciudad: Huelva, España
+
