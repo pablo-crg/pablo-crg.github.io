@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs   # para que GitHub Pages publique desde /docs
+
+website:
+  title: "Pablo Espinosa"
+  site-url: "https://pablo-crg.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: research.qmd
+        text: Investigación
+      - href: teaching.qmd
+        text: Docencia
+      - href: contact.qmd
+        text: Contacto
+
+format:
+  html:
+    theme: cosmo
+    toc: true

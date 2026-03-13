@@ -1,0 +1,14 @@
+---
+title: "Investigación"
+---
+
+## Líneas de interés
+
+- Biomarcadores en melanoma y cáncer cutáneo
+- Firmas inmunes y respuesta a inmunoterapia
+- Integración clínico-patológica-molecular
+
+## Proyectos seleccionados
+
+- **Proyecto 1** — Análisis transcriptómico de melanoma (RNA-seq bulk / scRNA-seq).
+- **Proyecto 2** — Desarrollo de firmas inmunes en cáncer cutáneo.

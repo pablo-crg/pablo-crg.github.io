@@ -1,0 +1,13 @@
+---
+title: "Sobre mí"
+---
+
+## Pablo Espinosa Lara
+
+Médico especialista en Oncología Médica y Dermatología, centrado en cáncer cutáneo y melanoma.
+Combino la práctica clínica con investigación traslacional en genómica, transcriptómica e inmunología tumoral.
+
+- Oncólogo médico y dermatólogo en Huelva
+- Investigación en melanoma y microambiente inmune
+- Análisis de datos ómicos (RNA-seq, single-cell, firmas inmunes)
+- Ciencia reproducible con R, Quarto y Git

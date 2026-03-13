@@ -1,0 +1,15 @@
+---
+title: "Docencia y formación"
+---
+
+## Docencia
+
+- Sesiones clínicas sobre cáncer cutáneo
+- Talleres introductorios de R y análisis de datos ómicos
+
+## Formación
+
+- Especialista en Oncología Médica y Dermatología
+- Máster en Genómica y Genética Médica
+- Máster en Bioinformática
+
