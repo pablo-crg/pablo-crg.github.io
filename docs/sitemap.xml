@@ -2,10 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pablo-crg.github.io/index.html</loc>
-    <lastmod>2026-03-13T18:55:14.675Z</lastmod>
+    <lastmod>2026-03-13T18:56:01.541Z</lastmod>
   </url>
   <url>
     <loc>https://pablo-crg.github.io/research.html</loc>
     <lastmod>2026-03-13T18:56:38.059Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pablo-crg.github.io/teaching.html</loc>
+    <lastmod>2026-03-13T18:57:21.644Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pablo-crg.github.io/contact.html</loc>
+    <lastmod>2026-03-13T18:58:02.071Z</lastmod>
   </url>
 </urlset>

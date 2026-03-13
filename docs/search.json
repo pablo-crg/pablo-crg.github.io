@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Sobre mí",
     "section": "",
-    "text": "Médico especialista en Oncología Médica y Dermatología, centrado en cáncer cutáneo y melanoma. Combino la práctica clínica con investigación traslacional en genómica, transcriptómica e inmunología tumoral.\n\nOncólogo médico y dermatólogo en Sevilla\nInvestigación en melanoma y microambiente inmune\nAnálisis de datos ómicos (RNA-seq, single-cell, firmas inmunes)\nCiencia reproducible con R, Quarto y Git"
+    "text": "Médico especialista en Oncología Médica y Dermatología, centrado en cáncer cutáneo y melanoma. Combino la práctica clínica con investigación traslacional en genómica, transcriptómica e inmunología tumoral.\n\nOncólogo médico y dermatólogo en Huelva\nInvestigación en melanoma y microambiente inmune\nAnálisis de datos ómicos (RNA-seq, single-cell, firmas inmunes)\nCiencia reproducible con R, Quarto y Git"
   },
   {
-    "objectID": "index.html#pablo-espinosa",
-    "href": "index.html#pablo-espinosa",
+    "objectID": "index.html#pablo-espinosa-lara",
+    "href": "index.html#pablo-espinosa-lara",
     "title": "Sobre mí",
     "section": "",
-    "text": "Médico especialista en Oncología Médica y Dermatología, centrado en cáncer cutáneo y melanoma. Combino la práctica clínica con investigación traslacional en genómica, transcriptómica e inmunología tumoral.\n\nOncólogo médico y dermatólogo en Sevilla\nInvestigación en melanoma y microambiente inmune\nAnálisis de datos ómicos (RNA-seq, single-cell, firmas inmunes)\nCiencia reproducible con R, Quarto y Git"
+    "text": "Médico especialista en Oncología Médica y Dermatología, centrado en cáncer cutáneo y melanoma. Combino la práctica clínica con investigación traslacional en genómica, transcriptómica e inmunología tumoral.\n\nOncólogo médico y dermatólogo en Huelva\nInvestigación en melanoma y microambiente inmune\nAnálisis de datos ómicos (RNA-seq, single-cell, firmas inmunes)\nCiencia reproducible con R, Quarto y Git"
   },
   {
     "objectID": "research.html",
@@ -33,5 +33,33 @@
     "title": "Investigación",
     "section": "Proyectos seleccionados",
     "text": "Proyectos seleccionados\n\nProyecto 1 — Análisis transcriptómico de melanoma (RNA-seq bulk / scRNA-seq).\nProyecto 2 — Desarrollo de firmas inmunes en cáncer cutáneo."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Docencia y formación",
+    "section": "",
+    "text": "Sesiones clínicas sobre cáncer cutáneo\nTalleres introductorios de R y análisis de datos ómicos"
+  },
+  {
+    "objectID": "teaching.html#docencia",
+    "href": "teaching.html#docencia",
+    "title": "Docencia y formación",
+    "section": "",
+    "text": "Sesiones clínicas sobre cáncer cutáneo\nTalleres introductorios de R y análisis de datos ómicos"
+  },
+  {
+    "objectID": "teaching.html#formación",
+    "href": "teaching.html#formación",
+    "title": "Docencia y formación",
+    "section": "Formación",
+    "text": "Formación\n\nEspecialista en Oncología Médica y Dermatología\nMáster en Genómica y Genética Médica\nMáster en Bioinformática"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contacto",
+    "section": "",
+    "text": "Correo: pablo.espinosa.crg@gmail.com\nGitHub: https://github.com/pablo-crg\nCiudad: Sevilla, España"
   }
 ]
